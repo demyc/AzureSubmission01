@@ -28,7 +28,7 @@
  <?php
     $host = "serversubmission.database.windows.net";
     $user = "submission1";
-    $pass = "haru4648";
+    $pass = "haru4648!";
     $db = "submission1DB";
 
     try {
