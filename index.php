@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "villaryappserver.database.windows.net";
-    $user = "villary";
+    $user = "user";
     $pass = "Aleonso96";
     $db = "villary";
 
